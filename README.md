@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Hirusha Dheemantha<br>🚀 Aspiring Data Scientist | Blockchain Enthusiast | AI Explorer<br><br>💻 Passionate about leveraging data science and AI for impactful solutions.<br>🔗 Exploring blockchain technology for innovative, secure, and sustainable applications.<br>🌱 Currently building projects and sharpening my skills in software engineering and front-end development.<br><br>✨ Let’s connect and collaborate on exciting ideas!
+<br>🔗 Exploring blockchain technology for innovative, secure, and sustainable applications.<br>🌱 Currently building projects and sharpening my skills in software engineering and front-end development.<br><br>✨ Let’s connect and collaborate on exciting ideas!
 
 
 ## 🌐 Socials:
