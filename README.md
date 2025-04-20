@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi I am Hirusha 
 <br>🔗 Exploring blockchain technology for innovative, secure, and sustainable applications.<br>🌱 Currently building projects and sharpening my skills in software engineering and front-end development.<br><br>✨ Let’s connect and collaborate on exciting ideas!
 
 
